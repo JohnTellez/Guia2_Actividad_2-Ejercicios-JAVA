@@ -106,19 +106,5 @@ public class Ejercicio1
         }
         } while (Opcion!='s');
         }
-      /*
-       
-       System.out.println("Resultados:\n");
-       
-       System.out.println("Semiperimetro: " + Math.round(Sperimetro * 100d) / 100d + " cm"); //Redondear los decimales con Math.round()
-       
-       System.out.println("Area:  " + Math.round(Area * 100d) / 100d + " m2");
-       
-       System.out.println("Circumradius:  " + Cradius + " cm");
-       
-       System.out.println("-------------------------------------------------------------------------------------------------------------------------------\n\n");
-       
-      */ 
-       
-    
+     
 }
