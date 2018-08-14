@@ -34,7 +34,7 @@ public class Ejercicio1
        if (Opcion =='P'){
            System.out.print("Convirtiendo " + Numero + " Pies en Pulgadas.\n\n");     
            Pies = Numero / 0.0833;
-           System.out.print("Resultado  " + Math.round(Pies * 100d)/ 100d + " Pulgadas");
+           System.out.print("Resultado  " + Math.round(Pies) + " Pulgadas");
            System.out.println("\n\n¿Desea realizar otra consulta? presione s/n ");
            Respuesta = teclado.next().charAt(0);
            if (Respuesta == 'n') {
@@ -51,7 +51,7 @@ public class Ejercicio1
        if (Opcion=='C'){
            System.out.print("Convirtiendo " + Numero + " Centimetros en Pulgadas.\n\n");       
            Centi = Numero * 0.393701;
-           System.out.print("Resultado  " + Math.round(Centi * 100d)/ 100d + " Pulgadas");
+           System.out.print("Resultado  " + Math.round(Centi) + " Pulgadas");
            System.out.println("\n\n¿Desea realizar otra consulta? presione s/n ");
            Respuesta = teclado.next().charAt(0);
            if (Respuesta == 'n') {
@@ -68,7 +68,7 @@ public class Ejercicio1
        if (Opcion=='L'){
            System.out.print("Convirtiendo " + Numero + " Leguas en Pulgadas.\n\n");     
            Leguas = Numero * 190080;
-           System.out.print("Resultado  " + Math.round(Leguas * 100d)/ 100d + " Pulgadas");
+           System.out.print("Resultado  " + Math.round(Leguas) + " Pulgadas");
            System.out.println("\n\n¿Desea realizar otra consulta? presione s/n ");
            Respuesta = teclado.next().charAt(0);
            if (Respuesta == 'n') {
@@ -85,7 +85,7 @@ public class Ejercicio1
        if (Opcion=='Y'){
            System.out.print("Convirtiendo " + Numero + " Yardas en Pulgadas.\n\n");     
            Yardas = Numero * 36;
-           System.out.print("Resultado  " + Math.round(Yardas * 100d)/ 100d + " Pulgadas");
+           System.out.print("Resultado  " + Math.round(Yardas) + " Pulgadas");
            System.out.println("\n\n¿Desea realizar otra consulta? presione s/n ");
            Respuesta = teclado.next().charAt(0);
            if (Respuesta == 'n') {
