@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+Pasajeros
+1
+0
+4
+Breq
+1
+0
+9
+Tturistas
+1
+0
+6
+1
+9
+Tpagocond
+1
+0
+4
+1
+33
+'Ingrese numero de pasajeros :  '
+5
+1
+9
+Pasajeros
+7
+0
+1
+14
+Pasajeros > 37
+7
+0
+1
+14
+Pasajeros < 37
+13
+6
+3
+4
+Breq
+1
+1
+9
+Tturistas
+17
+Pasajeros * 10000
+9
+Tpagocond
+11
+Breq * 2000
+4
+1
+143
+'Cantidad de Viajes a realizar:  ',Breq,'  Valor total pago turistas:  $',Tturistas,'  Valor a pagar al propietario del vehiculo:  $',Tpagocond
+13
+13
+6
+3
+9
+Tturistas
+17
+Pasajeros * 10000
+4
+Breq
+23
+round(Pasajeros / 37)+1
+9
+Tpagocond
+11
+Breq * 2000
+4
+1
+143
+'Cantidad de Viajes a realizar:  ',Breq,'  Valor total pago turistas:  $',Tturistas,'  Valor a pagar al propietario del vehiculo:  $',Tpagocond
+13
+1

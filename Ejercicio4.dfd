@@ -1,0 +1,177 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+Pbruto
+1
+0
+5
+Pneto
+1
+0
+9
+Tvehiculo
+1
+0
+6
+1
+8
+Impuesto
+1
+0
+4
+1
+40
+'Ingrese precio bruto del vehiculo :  $'
+5
+1
+6
+Pbruto
+4
+1
+107
+'Ingrese el numero segun el tipo de vehiculo:                   1.Camioneta     2.Automovil     3.Salir:  '
+5
+1
+9
+Tvehiculo
+7
+0
+1
+13
+Tvehiculo = 1
+7
+0
+1
+13
+Tvehiculo = 2
+7
+0
+1
+13
+Tvehiculo = 3
+13
+4
+1
+20
+'Saliendo, gracias.'
+13
+13
+7
+0
+1
+11
+Pbruto < 20
+7
+0
+1
+29
+Pbruto >= 20 and Pbruto <= 40
+7
+0
+1
+11
+Pbruto > 40
+13
+6
+2
+8
+Impuesto
+1
+9
+5
+Pneto
+17
+Pbruto + Impuesto
+4
+1
+96
+'Impuestos a pagar: $',Impuesto,                           ' Precio neto del Vehiculo: $',Pneto 
+13
+13
+6
+2
+8
+Impuesto
+10
+Pbruto / 5
+5
+Pneto
+17
+Pbruto + Impuesto
+4
+1
+96
+'Impuestos a pagar: $',Impuesto,                           ' Precio neto del Vehiculo: $',Pneto 
+13
+13
+6
+2
+8
+Impuesto
+1
+5
+5
+Pneto
+17
+Pbruto + Impuesto
+4
+1
+96
+'Impuestos a pagar: $',Impuesto,                           ' Precio neto del Vehiculo: $',Pneto 
+13
+13
+13
+7
+0
+1
+11
+Pbruto < 80
+7
+0
+1
+12
+Pbruto >= 80
+4
+1
+20
+'Saliendo, gracias.'
+13
+6
+2
+8
+Impuesto
+10
+Pbruto / 2
+5
+Pneto
+17
+Pbruto + Impuesto
+4
+1
+96
+'Impuestos a pagar: $',Impuesto,                           ' Precio neto del Vehiculo: $',Pneto 
+13
+13
+6
+2
+8
+Impuesto
+1
+0
+5
+Pneto
+17
+Pbruto + Impuesto
+4
+1
+96
+'Impuestos a pagar: $',Impuesto,                           ' Precio neto del Vehiculo: $',Pneto 
+13
+13
+1

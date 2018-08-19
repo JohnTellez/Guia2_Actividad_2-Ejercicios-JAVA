@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+Radio
+1
+0
+8
+ACirculo
+1
+0
+9
+ACuadrado
+1
+0
+6
+2
+10
+ASombreada
+1
+0
+2
+Pi
+4
+3.14
+4
+1
+59
+'Ingrese el valor del radio de la circunferencia (metros):'
+5
+1
+5
+Radio
+6
+3
+8
+ACirculo
+14
+Pi * Radio ^ 2
+9
+ACuadrado
+13
+2 * Radio ^ 2
+10
+ASombreada
+20
+ACirculo - ACuadrado
+4
+1
+131
+'Resultado: ',' Area Sombreada: ',round(ASombreada),'  Area del Circulo: ',round(ACirculo),'  Area del Cuadrado: ',round(ACuadrado)
+1
