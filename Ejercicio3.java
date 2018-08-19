@@ -17,7 +17,7 @@ public class Ejercicio3
        int Pasajeros, Breq, Tturistas, Tpagocond ;
        
        // Recoger datos
-       System.out.println("\nCALCULO COSTOS Y VIAJES\n ");
+       System.out.println("\n CALCULO COSTOS Y VIAJES\n ");
        System.out.println("-------------------------------------------------------------------------------------------------------------------------------\n\n");
        
        System.out.println("Consideraciones:");

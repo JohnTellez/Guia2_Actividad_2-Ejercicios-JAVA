@@ -15,7 +15,7 @@ public class Ejercicio2
       
        char Respuesta;       
        // Recoger datos
-       System.out.println("CALCULO DEL √ÅREA DE UN CUADRADO INSCRITO EN UNA CIRCUNFERENCIA\n ");
+       System.out.println("CALCULO DEL √REA DE UN CUADRADO INSCRITO EN UNA CIRCUNFERENCIA\n ");
        System.out.println("-------------------------------------------------------------------------------------------------------------------------------\n\n");
        
        do {

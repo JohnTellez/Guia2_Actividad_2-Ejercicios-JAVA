@@ -44,7 +44,7 @@ public class Ejercicio4
                                 System.out.println("\n\nTipo de Vehiculo: Camioneta");
                                 System.out.println("\n\nImpuestos a pagar: $"+ Impuesto);
                                 System.out.println("\n\nPrecio neto del Vehiculo: $" + Pneto);
-                                System.exit(0);
+                                System.runFinalization();
                             }
                             if (Pbruto >= 80){
                                 
@@ -56,7 +56,7 @@ public class Ejercicio4
                                 System.out.println("\n\nPrecio neto del Vehiculo: $" + Pneto);
                                 System.exit(0);
                             }
-                        }
+                        } 
            
            if (Respuesta == 'n') {
                         

@@ -9,7 +9,7 @@ public class Ejercicio1
 {
     public static void main(String[] args)
     {
-        Scanner teclado = new Scanner(System.in);
+       Scanner teclado = new Scanner(System.in);
        // Variables
        double Numero, Pies, Centi, Leguas, Yardas;
        char Opcion;
@@ -35,7 +35,7 @@ public class Ejercicio1
            System.out.print("Convirtiendo " + Numero + " Pies en Pulgadas.\n\n");     
            Pies = Numero / 0.0833;
            System.out.print("Resultado  " + Math.round(Pies) + " Pulgadas");
-           System.out.println("\n\nÂ¿Desea realizar otra consulta? presione s/n ");
+           System.out.println("\n\n ¿Desea realizar otra consulta? presione s/n ");
            Respuesta = teclado.next().charAt(0);
            if (Respuesta == 'n') {
                         
@@ -52,7 +52,7 @@ public class Ejercicio1
            System.out.print("Convirtiendo " + Numero + " Centimetros en Pulgadas.\n\n");       
            Centi = Numero * 0.393701;
            System.out.print("Resultado  " + Math.round(Centi) + " Pulgadas");
-           System.out.println("\n\nÂ¿Desea realizar otra consulta? presione s/n ");
+           System.out.println("\n\n ¿Desea realizar otra consulta? presione s/n ");
            Respuesta = teclado.next().charAt(0);
            if (Respuesta == 'n') {
                         
